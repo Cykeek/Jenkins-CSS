@@ -1,0 +1,274 @@
+@media (prefers-color-scheme: light) {
+h1{
+	color:black !important
+}
+
+/*header*/
+.breadcrumbs__wrapper{
+  background-color:#d3d6db !important;
+  color:black
+}
+
+#breadcrumbs{
+  background-color:#d3d6db !important;
+    color:black !important
+}
+  
+  li{
+    color:black !important
+  }
+
+/*left Side panel*/
+#side-panel{
+  background-color:#d3d6db !important;
+    color:black !important
+}
+
+#side-panel:hover{
+  background-color:#d3d6db !important
+}
+
+.build-row-cell{
+  background-color:#d3d6db !important
+}
+
+tbody{
+  background-color:#d3d6db !important
+}
+  
+  .task-link-wrapper{
+    background-color:#d3d6db !important
+  }
+  
+  tr{
+    background-color:#d3d6db !important
+  }
+  
+/*show message above main panel */
+#description{
+  color:black !important
+}
+
+#skip2content{
+  background-color:black !important
+}
+
+.row{
+  background-color:#d3d6db !important
+}
+  
+#buildQueue:hover{
+  backface-color:#d3d6db !important
+}
+
+#executors{
+  background-color:#d3d6db !important;
+    color:whitesmoke !important
+}
+
+.task-link-text{
+  color:black !important
+}
+  
+  #tasks{
+    background-color: #d3d6db !important   
+  }
+
+  .task{
+  	background-color:#414a59 !important;
+  }
+  
+td{
+  background-color:#d3d6db !important;
+  color:black !important
+}
+
+#main-panel{
+  background-color:#d3d6db !important
+}
+
+.tabBar{
+  background-color:#d3d6db !important
+}
+
+.tabBar:hover{
+  background-color:#d3d6db !important
+}
+
+#projectstatus{
+  background-color:#d3d6db !important
+}
+
+#projectstatus:hover{
+  background-color:#d3d6db !important;
+  color:black;
+}
+
+  .sortheader{
+    background-color:#d3d6db !important;
+      color:black !important
+  }
+  
+  #tab-1663389278788{
+    color:black !important
+  }
+  
+tr:hover{
+  background-color:#d3d6db !important
+}
+
+.dashboard{
+  background-color:#d3d6db !important
+}
+
+/*inside job */
+/*progress bar */
+.middle-align{
+  color:black !important
+}
+
+/*console output text*/
+.jenkins-icon-adjacent{
+	color:black !important  
+}
+
+#out{
+  color:black !important
+}
+
+#pre{
+	color:blueviolet !important
+}
+
+href:hover{
+  background-color:whitesmoke !important;
+  color:black !important
+}
+
+  .jenkins-search__input{
+  background-color:#d3d6db !important
+  }
+  
+ p{
+    color:black !important
+  }
+  
+ label{
+  	color:black !important 
+  }
+  
+  .setting-description{
+    color:black !important
+  }
+  
+  .setting-main{
+    color:white;
+  }
+  
+  pre{
+    background-color:#bec5d1 !important;
+      color:black !important
+  }
+  
+/*Build History*/
+.jenkins-app-bar__content{
+  color:black !important
+}
+
+.timeline-band-layer-inner{
+  background-color:#d3d6db; 
+  color:black !important
+}
+
+/*Check file fingerprint*/
+.setting-input{
+  background-color:#d3d6db !important 
+}
+
+/* inside project */
+.permalinks-header{
+  color:black !important
+}
+
+.permalinks-list{
+  color:black !important
+}
+
+  /*Add item*/
+  .add-item-name{
+    background-color:#d3d6db !important ;
+      color:black !important
+  }
+  
+  .input-validation-message{
+    color:black !important
+  }
+  
+  .category{
+    background-color:#d3d6db !important;
+    color:black !important
+  }
+  
+  .label{
+    color:black !important
+  }
+  
+  .item-copy{
+    background-color:#d3d6db !important ;
+      color:black !important
+  }
+  
+  .description{
+    color:whitesmoke;
+  }
+  
+  #from{
+    background-color:#d3d6db !important;
+      color:black !important
+  }
+  
+  .footer{
+    background-color:#d3d6db !important 
+  }
+  
+  .btn-decorator{
+    background-color:#d3d6db !important     
+  }
+  
+  /*jenkins config*/
+  
+  .jenkins-config-container{
+    background-color:#d3d6db !important;
+    color:black !important
+  }
+  
+  .jenkins-config-widgets{
+    background-color:#d3d6db !important     
+  }
+  
+  .bottom-sticker-inner{
+    background-color:#d3d6db !important     
+  }
+  
+  .dd-handle{
+    color:black !important
+  }
+  
+  .jenkins-config{
+    background-color:#d3d6db !important;
+    color:black !important
+  }
+  
+  .jenkins-section__header{
+    color:black !important
+  }
+  
+  .setting-input{
+    color:black !important
+  }
+  
+/*footer*/
+.page-footer__flex-row{
+  background-color:#d3d6db !important;
+  color:black !important
+  }}
